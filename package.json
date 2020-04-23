@@ -1,6 +1,7 @@
 {
   "name": "element-super-table",
-  "version": "0.1.4",
+  "version": "0.1.2",
+  "main": "lib/super-table.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
