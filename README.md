@@ -1,4 +1,4 @@
-# super-table
+# cli_project
 
 ## Project setup
 ```
