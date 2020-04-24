@@ -332,7 +332,15 @@ export default {
   top: 14px;
   left: 20px;
 }
+.action-list-border{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  align-items: center;
+  padding-left: 10px;
+}
 .action-list {
+  padding-left: 10px;
   font-size: 14px;
   font-weight: 500;
   color: #555;
